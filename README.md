@@ -15,3 +15,5 @@ Finally, there is a `standalone.html` file which shows how to use these componen
 
 
 https://stackblitz.com/~/github.com/china-lsl/vitejs-vite-eemz78hu?file=src/App.vue
+
+npm install && npm run dev
